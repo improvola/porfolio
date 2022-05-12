@@ -1,7 +1,7 @@
 
 
 body{
-    background-color: #574181;
+    background-color: #4F387A;
     background-size: cover;
     width: 100%;
     height: 100%;
@@ -30,7 +30,7 @@ body{
   
   @media (max-width:500px){
       #texto:before {
-          content: "IMP";
+          content: "  ";
           font-size: 1em;
       }
   }
@@ -47,7 +47,7 @@ img.green {
 }
 
 .imp {
-    background-color: #DED1F7;
+    background-color: #E6DDF9;
     padding: 3rem;
     background-size: cover;
 }
@@ -55,11 +55,12 @@ img.green {
     color: #644C92;
     text-align: center;
     font-family: 'Architects Daughter', cursive;
-    font-size: 4.5vw;
+    font-style: bold;
+    font-size: 3.9em, 3vh;
 }
 .imp p{
     color: black;
-    font-size: 1.2em;
+    font-size: 1.2rem;
     text-align: center;
     font-family: 'Roboto', sans-serif;
 }
@@ -174,22 +175,134 @@ img.green {
 
 /*FOOTER*/
 
-
-.icon-arrow-up:before {
-  content: "\1f446";
-}
-
-
-
 footer {
     background-color: black;
     padding: 2px;
     color: grey;
     text-align: center;
 }
+
+.kilimanjaro_area {
+    width: 100%;
+    background-size: cover;
+    position: relative;
+    }
+    .foo_top_header_one {
+    background-color: #291550;
+    color: #fff;
+}
+.section_padding_100_70 {
+    padding-top: 50px;
+    padding-bottom: 90px;
+}
+.foo_top_header_one {
+    color: #fff;
+}
+.foo_top_header_one {
+    color: #fff;
+}
+.kilimanjaro_part h4 {
+    margin-bottom: 30px;
+}
+.kilimanjaro_single_contact_info > p, .kilimanjaro_single_contact_info > h5, .kilimanjaro_blog_area > a, .foo_top_header_one .kilimanjaro_part > p {
+    color: rgba(255,255,255,.5);
+}
+p, ul li, ol li {
+    font-weight: 300;
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+.kilimanjaro_bottom_header_one {
+    background-color: #fff;;
+}
+.kilimanjaro_bottom_header_one p {
+    color: #fff;
+}
+p, ul li, ol li {
+    font-weight: 300;
+}
+.kilimanjaro_bottom_header_one a {
+
+    font-size: 14px;
+}
+a, h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+}
+
+
+.kilimanjaro_widget > li {
+    display: inline-block;
+}
+p, ul li, ol li {
+    font-weight: 300;
+}
+ol li, ul li {
+    list-style: outside none none;
+}
+.kilimanjaro_links a {
+    border-bottom: 1px solid rgba(255,255,255,.5) ;
+    color: rgba(255,255,255,.5);
+    display: block;
+    font-size: 13px;
+    margin-bottom: 5px;
+    padding-bottom: 10px;
+}
+.kilimanjaro_links a {
+    color: #fff;
+    font-size: 13px;
+}
+
+.foo_top_header_one > h5 {
+    color: #fff;
+}
+
+.kilimanjaro_social_links > li {
+    display: inline-block;
+}
+.kilimanjaro_social_links a {
+    border: 1px solid rgba(188, 158, 248, 0.2);
+    border-radius: 6px;
+    color: #BC9EF8;
+    display: inline-block;
+    font-size: 13px;
+    margin-bottom: 3px;
+    padding: 7px 15px;
+}
+   .kilimanjaro_social_links a:hover {
+        color: #BC9EF8;
+    }
+
+.kilimanjaro_links a i {
+    padding-right: 50px;
+}
+  /* :: 18.0 Footer Area CSS */
+
+    .footer_area {
+        position: absolute;
+        z-index: 1;
+    }
+ .footer_bottom p > i,
+    .footer_bottom p > a:hover {
+        color: #fff;;
+    }   
+
+    .social_links_area {
+        border-bottom: 1px solid rgba(255, 0, 255, 0.2);
+        padding: 40px 0 30px 0;
+        text-align: center;
+        position: relative;
+        z-index: 1;
+    }
+
+ padding-bottom: 10px;
+}
+
+
 /*FIN FOOTER*/
 
-/*ACTIVISMO*/
+/*CURRICULUM CARDS*/
 .activismo {
     background-color: #edf7d1;
     padding: 3rem;
@@ -209,7 +322,8 @@ footer {
 
 .articulos {
 
-    padding: 3rem;
+    padding: 2rem;
+    padding-top: 3rem;
 }
 
 .articulos h1{
