@@ -2,6 +2,7 @@
 ## _Welcome / Bienvenido_
 
 ![Image text](https://github.com/improvola/porfolio/blob/gh-pages/img/impdesign.png)
+![Image text](https://github.com/improvola/porfolio/blob/gh-pages/img/Welcome.gif)
 
 (https://github.com/improvola)
 
