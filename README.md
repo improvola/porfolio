@@ -3,7 +3,7 @@
 
 ![Image text](https://github.com/improvola/porfolio/blob/gh-pages/img/impdesign.png)
 
-[![perfil](https://github.com/improvola)](https://github.com/improvola)
+(https://github.com/improvola)](https://github.com/improvola)
 
 Este es mi portafolios, si te interesan mis proyectos no dudes en contactarte.
 Entra al sitio en cuestión: 
