@@ -23,4 +23,4 @@ Entra al sitio en cuestión:
 ![Image text](https://github.com/improvola/porfolio/blob/gh-pages/img/main-screen1.png)
 
 ## Watch my video 
-[![Watch the video](https://github.com/improvola/porfolio/blob/gh-pages/img/Welcome.mp4)
+[![Watch the video]([https://github.com/improvola/porfolio/blob/gh-pages/img/watch.png](https://youtu.be/Ibc1G2UXUuI))
